@@ -1,0 +1,31 @@
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.sqlite3
+*.ipynb_checkpoints
+# Data files (large)
+*.csv
+*.tsv
+*.dat
+*.npy
+*.npz
+# Model files (large binaries)
+*.pkl
+*.joblib
+*.h5
+# Environment
+.env
+.venv/
+venv/
+ENV/
+# Misc
+.DS_Store
+Thumbs.db
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
